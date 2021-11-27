@@ -1,4 +1,4 @@
-## Oiii eu sou o Mateus Sousa, criador de projetos na área de teconologia!
+## Oiii eu sou o Mateus Sousa, criador de projetos na área de tecnologia!
 <div align="center">
   <a href="https://github.com/MateusMaciel340">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=MateusMaciel340&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

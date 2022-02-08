@@ -1,14 +1,19 @@
-## Olá! Seja bem-vindo ao meu perfil!
+## Olá, visitante!
 <div align="center">
   <a href="https://github.com/MateusMaciel340">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=MateusMaciel340&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMaciel340&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="right" alt="Mateus-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/55550732?v=4">
+    <img align="center" alt="Mateus-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Mateus-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Mateus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Mateus-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="Mateus-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="Mateus-express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img align="center" alt="Mateus-php" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+    <img align="center" alt="Mateus-mysql" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="right" alt="Mateus-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/55550732?v=4">
 </div>
   
   ##

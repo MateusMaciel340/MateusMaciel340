@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Matthew</h1>
+<h1 align="center">Oi, eu sou Mateus</h1>
 <h3 align="center">Dev Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **NodeJS, Typescript, React, NestJS and MySQL**
+- 🌱 Atualmente estou aprendendo **NodeJS, Typescript, React e MySQL**
 
-- 👨‍💻 My projects can be quickly found at
+- 👨‍💻 Meus projetos podem ser encontrados rapidamente em
  [https://github.com/MateusMaciel340](https://github.com/MateusMaciel340)
 
-- 💬 Mastering **NodeJS and React**
+- 💬 Masterizando **NodeJS e React**
 
-- 📫 How to reach me **mateusmaciel340@gmail.com**
+- 📫 como chegar a mim: **mateusmaciel340@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mateus-sm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-sm/" height="30" width="40" /></a>
 </p>
@@ -26,9 +26,12 @@
     <img align="center" alt="Mateus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Mateus-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Mateus-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Mateus-express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
     <img align="center" alt="Mateus-php" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
     <img align="center" alt="Mateus-mysql" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Mateus-typescript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Mateus-jquery" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg">
+ <img align="center" alt="Mateus-sequelize" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg">
+ <img align="center" alt="Mateus-materialui" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg">
     <img align="right" alt="Mateus-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/55550732?v=4">
 </div>
   

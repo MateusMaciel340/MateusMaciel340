@@ -1,16 +1,16 @@
-<h1 align="center">Oi, eu sou Mateus</h1>
-<h3 align="center">Dev Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Matthew</h1>
+<h3 align="center">Software Engineerr</h3>
 
-- 🌱 Atualmente estou aprendendo **NodeJS, Typescript, React e MySQL**
+- 🌱 I am currently updating **Java, Typescript, React and MySQL**
 
-- 👨‍💻 Meus projetos podem ser encontrados rapidamente em
+- 👨‍💻 My projects can be quickly found at
  [https://github.com/MateusMaciel340](https://github.com/MateusMaciel340)
 
-- 💬 Masterizando **NodeJS e React**
+- 💬 Mastering **NodeJS and React**
 
-- 📫 como chegar a mim: **mateusmaciel340@gmail.com**
+- 📫 how to reach me: **mateusmaciel340@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mateus-sm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-sm/" height="30" width="40" /></a>
 </p>
